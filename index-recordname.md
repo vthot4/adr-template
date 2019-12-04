@@ -17,4 +17,21 @@ The change that we're proposing or have agreed to implement.
 
 ## Consequences
 
-What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+- Positive Consequences
+
+
+- Negative Consequences
+
+## Pros and Cons of the Options
+
+[Option 1]
+
+[example | description | pointer to more information | …]
+
+ - Good, because [argument a]
+ - Good, because [argument b]
+ - Bad, because [argument c]
+
+## Links
+
+ - [Link type] [Link ADR]
