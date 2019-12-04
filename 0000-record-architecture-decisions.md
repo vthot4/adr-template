@@ -16,6 +16,21 @@ We will use Architecture Decision Records, as [described by Michael Nygard](http
 
 ## Consequences
 
-See Michael Nygard's article, linked above. 
-For a lightweight ADR toolset, see Nat Pryce's [adr-tools](https://github.com/npryce/adr-tools).
-For a Visual Studio Code ADR toolset extention, see Vincent Le Dû's [vscode-adr-extention](https://github.com/vincent-ledu/adr-template)
+- Positive Consequences
+
+
+- Negative Consequences
+
+## Pros and Cons of the Options
+
+[Option 1]
+
+[example | description | pointer to more information | …]
+
+ - Good, because [argument a]
+ - Good, because [argument b]
+ - Bad, because [argument c]
+
+## Links
+
+ - [Link type] [Link ADR]
